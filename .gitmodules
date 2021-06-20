@@ -1,0 +1,6 @@
+[submodule "front-end"]
+	path = front-end
+	url = git remote add origin https://github.com/supto11/django-angular-rest-blog--angular.git
+[submodule "back-end"]
+	path = back-end
+	url = git remote add origin https://github.com/supto11/django-angular-rest-blog--django-rest.git
